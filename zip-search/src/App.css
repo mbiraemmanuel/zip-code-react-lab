@@ -4,3 +4,40 @@
   color: white;
   text-align: center;
 }
+.zipLabel{
+  font-weight: 625;
+}
+
+.cityLabel{
+  font-weight: 625;
+}
+
+.main{
+  padding-top: 3em;
+  min-width: 15%;
+}
+
+.cards{
+  margin-top: 2em;
+  width: 29em;
+}
+
+.searchType{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
+}
+
+.inputGroup input{
+  margin-right: .5em;
+}
+.zipList li {
+  display: block;
+  width: 33%;
+  float: left;
+}
+
+.zipList{
+  max-width: 25em;
+}
